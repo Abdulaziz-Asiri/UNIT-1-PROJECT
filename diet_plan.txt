@@ -1,0 +1,268 @@
+User Info:
+Age: 22
+Gender: male
+Weight: 80.0 kg
+Height: 180.0 cm
+Activity Level: active
+Health Goal: muscle
+
+BMI Result: [36m
+ Your BMI is 24.69kg/m², [32mNormal[0m
+ [0m
+Recommended daily caloric intake: 2563.00 calories
+
+Monday:
+  Snack 1:
+                                                                                                            Food  Quantity (g)
+Lamb, roasted, cooked, trimmed to 1/8" fat, separable lean and fat, shank half, leg, fresh, imported, Australian          23.0
+                                         Tortellini, as purchased, fresh-refrigerated, pasta with cheese filling          12.0
+                                                                      Whale, dried (Alaska Native), meat, beluga          23.0
+
+  Snack 2:
+                                       Food  Quantity (g)
+SPAGHETTIOS, SpaghettiOs with Sliced Franks          59.0
+   SUNSHINE, Pepper Jack Crackers, CHEEZ-IT          25.0
+         Burrito, microwaved, beef and bean          46.0
+
+  Breakfast:
+                                       Food  Quantity (g)
+            BEAR NAKED, Fruit & Nut Cookies         150.0
+Wheat flour, unenriched, all-purpose, white          54.0
+              Peppers, canned, green, chili          24.0
+           Cabbage, raw, chinese (pak-choi)          11.0
+
+  Lunch:
+                                                             Food  Quantity (g)
+                                      Carambola, raw, (starfruit)         124.0
+                                      Soybeans, raw, mature seeds          40.0
+          AUSTIN, sandwich-type, Peanut Butter on Toasty Crackers          27.0
+Beverages, prepared with water, powder, with aspartame, cocoa mix         150.0
+
+  Dinner:
+                                                                                    Food  Quantity (g)
+                                                                      Carrots, raw, baby         150.0
+                                                Soup, condensed, canned, cream of celery         146.0
+                                   WORTHINGTON Meatless Chicken Roll, unprepared, frozen         150.0
+                                           Turkey, roasted, cooked, skin only, young hen         150.0
+Beef, raw, choice, trimmed to 1/8" fat, separable lean only, steak, top loin, short loin         150.0
+                                                 Rolls, mixed-grain, hamburger or hotdog         150.0
+                               CAMPBELL'S, condensed, 98% Fat Free Cream of Chicken Soup           7.0
+                                                 KASHI, Oatmeal Raisin Flax Cookies, TLC         150.0
+                                    PIZZA HUT 12" Super Supreme Pizza, Hand-Tossed Crust         150.0
+                                      KEEBLER, Peanut Creme Filled Cookies, FUDGE SHOPPE         150.0
+       Pork, unheated, separable lean only, bone-in, slice, ham and water product, cured          56.0
+
+Tuesday:
+  Snack 1:
+                                                                                                      Food  Quantity (g)
+                                Pork, simmered, cooked, frozen, ears, variety meats and by-products, fresh         150.0
+                                          Veal, grilled, cooked, boneless, cutlet, cap off, top round, leg          50.0
+Beef, raw, separable lean only, boneless, bottom round steak/roast, round, grass-fed, imported, Australian          43.0
+                                           Cereals ready-to-eat, CHOCO ZUCARITAS, KELLOGG'S FROSTED FLAKES         128.0
+
+  Snack 2:
+                                                                                                                Food  Quantity (g)
+                                                           Turnip greens, with salt, drained, boiled, cooked, frozen         150.0
+                    Lamb, raw, separable lean and fat, shank off, chump off, tunnel-boned leg, imported, New Zealand         150.0
+                                                                                  Game meat, roasted, cooked, beaver          13.0
+                                                                        Vegetable juice cocktail, canned, low sodium          17.0
+Beef, braised, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, under blade pot roast, chuck         150.0
+                                                      Cereals, dry, fruit and cream variety, Instant Oatmeal, QUAKER          56.0
+
+  Breakfast:
+                           Food  Quantity (g)
+           Rolls, wheat, dinner          86.0
+Babyfood, tropical fruit medley          52.0
+
+  Lunch:
+                                                                                                                  Food  Quantity (g)
+                                                                                               Pears, green anjou, raw          63.0
+                                               Beverages, with added nutrients, ready-to-drink, orange breakfast drink         150.0
+                                                                    Beverages, Strawberry Kiwi, V8 SPLASH Juice Drinks          36.0
+Beverages, vitamin A and vitamin D,  added calcium, Ready-to-drink, flavored and sweetened, reduced fat, milk beverage           5.0
+                                                  Chicken, heated (microwave), barbecue flavored, glazed, frozen, wing         150.0
+
+  Dinner:
+                                                                                                              Food  Quantity (g)
+                                                              Cereals ready-to-eat, RAISIN NUT BRAN, GENERAL MILLS         150.0
+                                     Cookies, enriched, higher fat, regular, commercially prepared, chocolate chip          28.0
+                                                                                     Sauce, ready-to-serve, oyster         150.0
+                                                                                       Babyfood, toddler, potatoes           3.0
+Fruit cocktail, solids and liquids, extra heavy syrup, canned, (peach and pineapple and pear and grape and cherry)         142.0
+
+Wednesday:
+  Snack 1:
+                                                          Food  Quantity (g)
+Potatoes, without salt, drained, boiled, cooked, whole, frozen          42.0
+                         Willow, leaves in oil (Alaska Native)           7.0
+           Babyfood, prepared with whole milk, oatmeal, cereal          11.0
+
+  Snack 2:
+                                          Food  Quantity (g)
+                              Raspberries, raw          10.0
+Cereals ready-to-eat, Christmas Crunch, QUAKER           1.0
+                         Crackers, whole-wheat          50.0
+
+  Breakfast:
+                                           Food  Quantity (g)
+                      Ostrich, cooked, top loin          51.0
+   Bread, french or vienna (includes sourdough)           1.0
+Chicken, raw, separable fat, broilers or fryers          31.0
+
+  Lunch:
+                                                                                                Food  Quantity (g)
+                                                                          Ostrich, raw, inside strip          53.0
+Beef, roasted, cooked, choice, trimmed to 0" fat, separable lean only, tri-tip roast, bottom sirloin          75.0
+                                       Turkey from whole, roasted, cooked, meat and skin, light meat         132.0
+
+  Dinner:
+                                                                          Food  Quantity (g)
+                 Soup, prepared with equal volume milk, canned, cream of onion         144.0
+                                      Cookie, with icing or coating, chocolate           7.0
+Bread, made with tapioca starch and brown rice flour, whole grain, gluten-free          11.0
+
+Thursday:
+  Snack 1:
+                                                                                               Food  Quantity (g)
+                                   Peas, with salt, drained, boiled, cooked, sprouted, mature seeds           3.0
+Toddler formula, ready-to-feed, ENFAGROW PREMIUM (formerly ENFAMIL, LIPIL, NEXT STEP), MEAD JOHNSON          38.0
+                                                   Orange juice, includes from concentrate, chilled          14.0
+
+  Snack 2:
+                                            Food  Quantity (g)
+                          Chewing gum, sugarless          12.0
+                            Yeast extract spread           6.0
+Alcoholic Beverage, Pinot Noir, red, table, wine          40.0
+
+  Breakfast:
+                           Food  Quantity (g)
+         Bologna, beef and pork          83.0
+Crackers, low salt, whole-wheat           5.0
+
+  Lunch:
+                                                                                                Food  Quantity (g)
+                                                Shortening household soybean (hydrogenated) and palm          15.0
+                                                              Cake, commercially prepared, fruitcake           9.0
+                                                  Sweet potato leaves, without salt, steamed, cooked         150.0
+                                        Grapefruit, solids and liquids, water pack, canned, sections         150.0
+                                                                              Emu, raw, outside drum         150.0
+Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean only, boneless, chuck eye steak         106.0
+
+  Dinner:
+                                                                                   Food  Quantity (g)
+                                                       SUNSHINE, BIG Crackers, CHEEZ-IT           6.0
+Beef, raw, select, trimmed to 1/8" fat, separable lean only, roast, bottom round, round         150.0
+                                                     Fish, dry heat, cooked, butterfish           7.0
+                    Turkey, raw, with added solution, meat only, from whole bird, thigh         150.0
+                             Cereals, without salt, cooked with water, enriched, farina          62.0
+
+Friday:
+  Snack 1:
+                                                               Food  Quantity (g)
+                      Babyfood, strained, without vitamin c, prunes         114.0
+                 Sauce, canned, immature green, hot, peppers, chili          50.0
+Veal, braised, cooked, separable lean and fat, osso buco, foreshank          14.0
+
+  Snack 2:
+                                                                                               Food  Quantity (g)
+                                                                            Soy meal, raw, defatted           3.0
+Beef, braised, cooked, select, trimmed to 0" fat, separable lean only, boneless, shoulder pot roast          59.0
+
+  Breakfast:
+                                                     Food  Quantity (g)
+                       SPAGHETTIOS, SpaghettiOs  A to Z's          24.0
+Beef, raw, choice, separable lean and fat, shortribs, rib         150.0
+    Waffle, microwaved, ready-to-heat, frozen, buttermilk          28.0
+         Rutabagas, without salt, drained, boiled, cooked          48.0
+
+  Lunch:
+                                                                   Food  Quantity (g)
+              Onions, with salt, drained, boiled, cooked, whole, frozen         150.0
+                             Pancakes, prepared from recipe, buttermilk          84.0
+                                       Snacks, rice-based, oriental mix         150.0
+                                              Rice and Wheat cereal bar         150.0
+                                    Sauce, original, OPEN PIT, barbecue          21.0
+Pork, roasted, extra lean and regular, low sodium, boneless, ham, cured         116.0
+                        Potatoes, no salt added, drained solids, canned         150.0
+
+  Dinner:
+                                                                           Food  Quantity (g)
+Soup, prepared with water or ready-to-serve, reduced sodium, canned, bean & ham          92.0
+                                               Muffins, prepared, dry mix, corn          96.0
+                                         Candies, milk chocolate coated peanuts          65.0
+
+Saturday:
+  Snack 1:
+                                                                                                      Food  Quantity (g)
+                                                            CAMPBELL'S Soup on the Go, Creamy Chicken Soup           4.0
+                                                 Cereals ready-to-eat, POST GREAT GRAINS Banana Nut Crunch         150.0
+                                                       Restaurant, chicken parmesan without pasta, Italian          21.0
+                                                      Beef, raw, seam fat, grass-fed, imported, Australian         150.0
+Beef, grilled, cooked, select, trimmed to 0" fat, separable lean and fat, boneless, tenderloin steak, loin          29.0
+                                 Artichokes, with salt, drained, boiled, cooked, frozen, (globe or french)         150.0
+
+  Snack 2:
+                                                                                                          Food  Quantity (g)
+                   Beef, raw, choice, trimmed to 0" fat, separable lean only, small end (ribs 10-12), eye, rib          48.0
+                                                                              Fish, dry heat, cooked, bluefish         133.0
+Beef, roasted, cooked, all grades, trimmed to 0" fat, separable lean and fat, boneless, tenderloin roast, loin           4.0
+
+  Breakfast:
+                                                         Food  Quantity (g)
+                      Game meat, stewed, cooked, wild, rabbit          84.0
+            KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce         120.0
+         Restaurant, without meat, vegetable lo mein, Chinese          18.0
+                                       Mortadella, pork, beef         150.0
+Cereals ready-to-eat, CINNAMON HARVEST, KASHI ORGANIC PROMISE         150.0
+
+  Lunch:
+                                                                                                Food  Quantity (g)
+Beef, grilled, cooked, choice, trimmed to 1/8" fat, separable lean and fat, t-bone steak, short loin         150.0
+                                                                                 Game meat, raw, elk         150.0
+                                              Infant formula, powder, soy, store brand, PBM PRODUCTS          67.0
+                                        Beef, raw, separable lean only, flank, imported, New Zealand          48.0
+                                               Wheat flour, unbleached, enriched, all-purpose, white         150.0
+                                  Candies, Fruit and Creme, STARBURST Fruit Chews, MARS SNACKFOOD US         123.0
+
+  Dinner:
+                                                      Food  Quantity (g)
+  Beverages, with added ascorbic acid, lemon, instant, tea          91.0
+        Cereals ready-to-eat, REESE'S PUFFS, GENERAL MILLS          97.0
+Cake, with vanilla frosting, commercially prepared, yellow         138.0
+
+Sunday:
+  Snack 1:
+                                                   Food  Quantity (g)
+          MOTHER'S, Double Fudge Creme Sandwich Cookies           4.0
+Pie crust, unbaked, prepared from recipe, standard-type          54.0
+                            Game meat, raw, ground, elk           2.0
+
+  Snack 2:
+                                                 Food  Quantity (g)
+                          Radish seeds, raw, sprouted          55.0
+Plums, solids and liquids, juice pack, purple, canned           4.0
+
+  Breakfast:
+                                                                                                                 Food  Quantity (g)
+                                          Chicken, flour, fried, cooked, meat and skin, dark meat, broilers or fryers         150.0
+                                                                 Peaches, stewed, sulfured, dehydrated (low-moisture)          48.0
+Lamb, braised, cooked, trimmed to 1/4" fat, separable lean only, cubed for stew or kabob (leg and shoulder), domestic           7.0
+                                                                          Candies, HERSHEY'S GOLDEN ALMOND SOLITAIRES         150.0
+              Beef, broiled, cooked, select, trimmed to 0" fat, small end (ribs 10- 12) separable lean only, eye, rib         136.0
+
+  Lunch:
+                                                     Food  Quantity (g)
+                              Grapefruit juice, raw, pink          60.0
+CAMPBELL'S Red and White, condensed, Cream of Celery Soup         150.0
+   Yogurt, 11 grams protein per 8 ounce, low fat, vanilla         124.0
+
+  Dinner:
+                                                                                                                          Food  Quantity (g)
+                                                                                   PEPPERIDGE FARM, Whole Grain 15 Grain Bread         150.0
+                           Margarine-like, with added vitamin D, without salt, stick/tub/bottle, 60% fat, vegetable oil spread         108.0
+                                                                            Lamb, raw, subcutaneous fat, imported, New Zealand          63.0
+Beef, grilled, cooked, all grades, trimmed to 0" fat, separable lean and fat, medallion, shoulder tender, shoulder clod, chuck         150.0
+                                          Pork, broiled, cooked, bone-in, separable lean only, country-style ribs, loin, fresh         150.0
+                                    Pork, pan-broiled, cooked, separable lean only, boneless, center loin (chops), loin, fresh          10.0
+                                                       Cookies, with added fiber, reduced fat, commercially prepared, brownies         150.0
+

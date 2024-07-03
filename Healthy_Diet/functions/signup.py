@@ -54,6 +54,7 @@ def saveUserRegistration(username, hashedPW):
         with open(userInfo, "w",encoding='UTF-8' ) as f:
             json.dump(data, f, indent=4)
             print(Fore.GREEN+ f"User {username} created successfully!" + Style.RESET_ALL) 
+            print(Fore.BLUE+ f"Login again to continue" + Style.RESET_ALL)
 
 #TODO: fix input validation for username and password
 #TODO: fix Validate input 

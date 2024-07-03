@@ -10,6 +10,7 @@ def introDisplay():
     return print(intro)
 
 def get_user_input():
+        print(Fore.LIGHTGREEN_EX+"\nEnter your personal data to calculate you BMI , Calories and generate diet plan: \n "+ Style.RESET_ALL)
         user_info = {
             'age': int(input("Enter your age: ")),
             'gender': input("Enter your gender (Male/Female): "),
@@ -28,8 +29,14 @@ def main():
 
     print(Fore.BLUE + "\n--------- Welcome to the Smart Diet Planner! Please sign up or log in to continue. -------------\n" + Style.RESET_ALL)
     while True:
-        choice = input("\nDo you want to (1) Sign Up or (2) Log In? Enter 1 or 2 and type exit to terminate the program:\n ")
-        if choice.lower() == 'exit':
+        choice = input('''\n
+                       Choose option:
+                       (1) Sign Up  
+                       (2) Log In
+                       (3) Exit
+                        \n 
+                       ''')
+        if choice == '3':
             break
         if choice == '1':
             user = signup.register()

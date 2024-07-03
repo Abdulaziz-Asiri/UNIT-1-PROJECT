@@ -7,7 +7,7 @@
 
 ### Overview 
  The "Smart Diet Planner" is a Healthy Diet Plan Recommendation engine using a content-based approach to promote healthy eating habits through personalized food recommendations. Utilizing a content-based approach, this engine analyzes the nutritional content and ingredients of various foods to deliver tailored suggestions to users depending on his age, gender, weight, hight, activity level and health goal.
- 
+
  ![alt text](logo_img1.jpg)
 
 
@@ -16,9 +16,9 @@ A content-based recommendation is a type of recommendation system that uses the 
 
 ![alt text](content_based_img.webp)
 ## Feature:
-- Calculate his BMI
-- Calculate his calories needs
-- Generate recommendation meals for days
+- Calculate the BMI
+- Calculate the calories needs
+- Generate recommendation meals per day
 - Save the results to text file
 
 
